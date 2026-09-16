@@ -73,7 +73,7 @@ export async function analyzeAssessment(
   }
 
   const response = await ai.models.generateContent({
-    model: "gemini-3.6-flash",
+    model: "gemini-2.5-pro",
     contents: { parts },
     config: {
       responseMimeType: "application/json",
