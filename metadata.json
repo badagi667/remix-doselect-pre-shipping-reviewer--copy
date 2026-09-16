@@ -1,0 +1,8 @@
+{
+  "name": "Remix Doselect Pre-Shipping Reviewer- Orignal",
+  "description": "An expert agent for evaluating MCQ-based assessments and generating internal and client evaluation reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
